@@ -5,4 +5,5 @@ Aí ele pede pro usuário digitar um número...
 Se o número for **igual** ao sorteado: só aparece um print dizendo que a System32 foi salva 😌  
 Se for **diferente**: ele tenta apagar a System32 💣 (mas relaxa, é só zoeira kkk)
 
+Feito por [OreOFDev](https://github.com/OreOFDev)
 :D
